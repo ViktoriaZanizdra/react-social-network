@@ -1,8 +1,9 @@
-import './App.css';
+import React from 'react';
+import s from './navigation.module.css';
 
 function Navigation() {
   return (
-    <nav className="nav">
+    <nav className={s.nav}>
       <ul>
         <li>Profile</li>
         <li>Messages</li>

@@ -1,0 +1,9 @@
+.app_header {
+    min-height: 5vh;
+    background-image: url("https://www.unoosa.org/res/timeline/index_html/space-2.jpg");
+    color: white;
+    font-family: fantasy;
+    font-size: calc(30px + 2vmin);
+    padding-left: 30px;
+    margin-bottom: 10px;
+}
